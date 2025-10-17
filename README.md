@@ -1,5 +1,3 @@
-Here is the complete content for your GitHub `README.md` file. It is formatted using Markdown and includes the code snippets directly, along with the setup and testing commands.
-
 -----
 
 # Distributed Chat Room with Distributed Mutual Exclusion (DME)
